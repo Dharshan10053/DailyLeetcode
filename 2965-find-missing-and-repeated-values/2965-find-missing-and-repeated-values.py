@@ -4,7 +4,6 @@ class Solution(object):
         arr=[]
         result=[]
         miss=0
-        
         for i in range(len(grid)):
             order.extend(grid[i])
         arr=sorted(list(set(order)))
@@ -14,9 +13,3 @@ class Solution(object):
         miss=(n*(n+1)//2)-sum1
         rep=sum2-sum1
         return rep,miss
-
-        
-
-        
-        
-        
