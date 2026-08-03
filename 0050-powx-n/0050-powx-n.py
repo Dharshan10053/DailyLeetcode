@@ -5,6 +5,5 @@ class Solution(object):
         :type n: int
         :rtype: float
         """
-        y=x**n
-        return round(y,5)
+        return x**n
         
