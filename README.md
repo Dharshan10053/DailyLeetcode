@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dharshan10053/DailyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
