@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dharshan10053/DailyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
