@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0136-single-number) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
