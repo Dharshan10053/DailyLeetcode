@@ -7,7 +7,7 @@ class Solution(object):
         """
         left=0
         csum=0
-        minlen=len(nums)
+        minlen=len(nums)+1
         for right in range(len(nums)):
             csum+=nums[right]
             while csum>=target:
@@ -16,7 +16,7 @@ class Solution(object):
                 csum-=nums[left]
                 left+=1
         
-        if minlen==len(nums) and left==0:     
+        if minlen==len(nums)+1:     
             return 0
         return minlen
 
