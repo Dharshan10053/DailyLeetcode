@@ -11,7 +11,8 @@ class Solution(object):
         for right in range(len(nums)):
             csum+=nums[right]
             while csum>=target:
-                minlen=min(right-left+1,minlen)
+                length=right-left+1
+                minlen=min(length,minlen)
                 csum-=nums[left]
                 left+=1
         
