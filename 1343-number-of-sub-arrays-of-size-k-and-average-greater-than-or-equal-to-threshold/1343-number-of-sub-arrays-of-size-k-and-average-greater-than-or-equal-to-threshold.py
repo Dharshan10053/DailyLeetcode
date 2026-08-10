@@ -13,8 +13,7 @@ class Solution(object):
         for right in range(len(arr)):
             sum1+=arr[right]
             if right-left+1==k:
-                avg=sum1/k
-                if avg>=threshold:
+                if sum1>=k*threshold:
                     count+=1
                 sum1-=arr[left]
                 left+=1
