@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1748-sum-of-unique-elements](https://github.com/Dharshan10053/DailyLeetcode/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dharshan10053/DailyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dharshan10053/DailyLeetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1748-sum-of-unique-elements](https://github.com/Dharshan10053/DailyLeetcode/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dharshan10053/DailyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dharshan10053/DailyLeetcode/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/Dharshan10053/DailyLeetcode/tree/master/1748-sum-of-unique-elements) |
 ## Matrix
 |  |
 | ------- |
